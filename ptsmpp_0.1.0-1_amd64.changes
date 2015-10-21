@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Wed, 16 Sep 2015 15:23:43 +0300
+Source: ptsmpp
+Binary: python-ptsmpp
+Architecture: source all
+Version: 0.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Alexander Pravdin <aledin@mail.ru>
+Changed-By: Alexander Pravdin <aledin@mail.ru>
+Description:
+ python-ptsmpp - PTSMPP - Python Twisted SMPP 3.4 client library
+Changes:
+ ptsmpp (0.1.0-1) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1:
+ 428fcd4d5b7f90d6a8509ca8ea03be2b54deaea3 1710 ptsmpp_0.1.0-1.dsc
+ 824a6a236467c5814af8091b78b565b0c906870e 111553 ptsmpp_0.1.0.orig.tar.gz
+ 04408beb697377e28ddac090bd757a187b9319b3 1776 ptsmpp_0.1.0-1.debian.tar.xz
+ 12399e2eb11bc4d51bbd76384fca35649df34d1d 33414 python-ptsmpp_0.1.0-1_all.deb
+Checksums-Sha256:
+ 1ef287fd22fc19aea97364883080ec467e477f68d99a4ef35992341958e52f30 1710 ptsmpp_0.1.0-1.dsc
+ 6842c7d8a4009abc878ccc3fb26b4f6277557832f8c54a68aaf4e0fbd9213cd1 111553 ptsmpp_0.1.0.orig.tar.gz
+ 59c2f41de8ed081cdbe17df634a81ff29892228fe48cee25c2b2dd4d6e7ec6fa 1776 ptsmpp_0.1.0-1.debian.tar.xz
+ 670707f1cc456a95ff8e140bad5677f999d439f2f33f9ed67bee3dab6a1f63e7 33414 python-ptsmpp_0.1.0-1_all.deb
+Files:
+ b6165ff8323b9c1d25f15d93c423e4d8 1710 python optional ptsmpp_0.1.0-1.dsc
+ b6f2d7c0030c8104d13d5cb5cdcc9d4e 111553 python optional ptsmpp_0.1.0.orig.tar.gz
+ 89048c7b9ce457c45099c3d2bca3942f 1776 python optional ptsmpp_0.1.0-1.debian.tar.xz
+ f68dd13903b8ddd1db2ff295608a4a2f 33414 python optional python-ptsmpp_0.1.0-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJWJ30lAAoJEBsrqc7YIVDozDgP/2cDs6mYEUkRL2athpL/YXVK
+/4vk7JvQtPqgW9vadf/TZhwFAX2h9IbnWy2sauuu2abpM0SFLHN1XfxrcdoVnk04
+0YseXxhFjz4ZhfuZSDwvYQCQYZk4W+9GUc7tr733YpCcil8L3S18637ZRVUAUCWU
+NBfDUhssPFk1Ki3VV2hmaRG0A30AZvUSqWDNAvDBqcmhDej8T1s6mnEWUBKqqbor
+aJsEqJWf3r/Dwx7VgIDHR/Lq4BDXW9pO8Ie4t92wp00zrWKGtSj0QDCLDXddt3rL
+CWqiU/GNgBmP1jdymaavBK5XiPOPmLuJ0vk0TwANrPvyoIjpIc2El4H56gT9Va0K
+5Exd2WyymcftWF0VEZF6hH/5Nb1x68PkPRSKScevjDHHDoRk16KJWp2T+fsFp6fz
+ckrGNIFyYXZSCkMkH8SeRwfOPMc3Teb0u8oaRK9LWN17PRqokVXXEIswqmRkT5Tn
+6/cBGnSlYXGRdOiFZOKxivY7i83i3NBZ+QnNFTjlAKC+o5etwgRE3sbmxL5FUbBK
+A2b5ik5hE9hZiDeHI8x5Hh+gBq8RVUheM+hYEB/p2d2opM4n9er4QOGvkZFm+U14
+elh6sqF1JGsdNa9ERsDXgeF6IwYqTEYXqn8Cmx6Pxh55doGJfYOc2OxOXCVGgsKm
+HTRbpV+0zQdg3mVU2vzJ
+=ARPV
+-----END PGP SIGNATURE-----
